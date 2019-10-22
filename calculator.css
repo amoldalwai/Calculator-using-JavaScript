@@ -2,6 +2,9 @@ button
 		{
 			width:50px;
 			height:50px;
+			color:white;
+			background:black;
+			
 		}
 		#down
 		{
@@ -14,6 +17,7 @@ button
 			height:30px;
 			border-radius:20px;
 			
+			
 		}
 		#calci
 		{
@@ -23,5 +27,9 @@ button
 			height:320px;
 			background-color: white;
 			margin:2px;
+			margin-top:0px;
+			margin-bottom:0px;
+			margin-right:0px;
+			
 		}
 		
